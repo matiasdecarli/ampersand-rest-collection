@@ -1,2 +1,12 @@
-node_modules
+node_modules/ampersand-collection
+node_modules/ampersand-collection-underscore-mixin
+node_modules/ampersand-version
+node_modules/browserify
+node_modules/phantomjs
+node_modules/precommit-hook
+node_modules/run-browser
+node_modules/tap-spec
+node_modules/tape
+node_modules/tape-run
+node_modules/.bin
 .DS_Store
